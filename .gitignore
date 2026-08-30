@@ -1,0 +1,27 @@
+# Dependency directories (Never commit these!)
+node_modules/
+bower_components/
+
+# Build and output directories
+dist/
+build/
+out/
+
+# Environment variables and secrets
+.env
+.env.local
+*.pem
+
+# Logs and databases
+*.log
+*.sqlite
+
+# Operating System files
+.DS_Store
+Thumbs.db
+
+# IDE and Editor configs
+.vscode/
+.idea/
+*.suo
+*.ntvs*
