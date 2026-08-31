@@ -1,4 +1,4 @@
-*Summary*
+*Summary*:
 Building assistance effect maps that determine the quantitative relationship linking assistance to biomechanical assistance.
 
 **Folder Contents**
